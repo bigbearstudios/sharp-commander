@@ -1,2 +1,6 @@
 Examples/bin
 SharpCommander/bin
+Examples/obj
+SharpCommander/obj
+Tests/bin
+SharpTest.dll
