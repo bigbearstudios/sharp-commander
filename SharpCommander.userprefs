@@ -1,12 +1,20 @@
-﻿<Properties StartupItem="Examples/Examples.csproj">
+﻿<Properties StartupItem="Tests/Tests.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Examples/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SharpCommander/Source/Attributes/OptionEnumAttribute.cs">
     <Files>
-      <File FileName="Examples/Program.cs" Line="9" Column="4" />
+      <File FileName="SharpCommander/Source/Parsers/ArgumentParser.cs" Line="85" Column="42" />
+      <File FileName="SharpCommander/Source/Internal/BaseOptionAttribute.cs" Line="37" Column="30" />
+      <File FileName="SharpCommander/Source/Attributes/OptionEnumAttribute.cs" Line="3" Column="31" />
+      <File FileName="SharpCommander/Source/Attributes/OptionAttribute.cs" Line="3" Column="1" />
+      <File FileName="SharpCommander/Source/Attributes/ListAttribute.cs" Line="7" Column="86" />
+      <File FileName="SharpCommander/Source/Attributes/OptionListAttribute.cs" Line="8" Column="34" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/stuartfarnaby/git/sharp-commander/SharpCommander/Source/ArgumentParser.cs" line="59" column="1" />
+      <Breakpoint file="/Users/stuartfarnaby/git/sharp-commander/SharpCommander/Source/ArgumentParser.cs" line="69" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

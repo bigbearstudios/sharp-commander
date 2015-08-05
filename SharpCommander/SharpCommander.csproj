@@ -32,6 +32,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Source\Attributes\OptionAttribute.cs" />
+    <Compile Include="Source\Attributes\OptionListAttribute.cs" />
+    <Compile Include="Source\Parsers\ArgumentParser.cs" />
+    <Compile Include="Source\Attributes\ListAttribute.cs" />
+    <Compile Include="Source\Internal\BaseArgumentAttribute.cs" />
+    <Compile Include="Source\Internal\BaseOptionAttribute.cs" />
+    <Compile Include="Source\Attributes\OptionEnumAttribute.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <Folder Include="Source\" />
+    <Folder Include="Source\Internal\" />
+    <Folder Include="Source\Attributes\" />
+    <Folder Include="Source\Parsers\" />
+  </ItemGroup>
 </Project>
